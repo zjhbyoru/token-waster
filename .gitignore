@@ -1,0 +1,10 @@
+# Trae
+.trae/documents/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
