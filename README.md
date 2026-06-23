@@ -1,6 +1,6 @@
 # Token Waster  🔥
 
-> 烧 Token 模式 —— 合法合规地最大化 AI 对话 Token 消耗
+> 燃烧Token模式——合法合规地最大化AI对话Token消耗
 >
 > Token Burning Mode — Legally and compliantly maximize AI conversation token consumption
 
